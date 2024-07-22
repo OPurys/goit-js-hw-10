@@ -56,6 +56,7 @@ fieldset {
   justify-content: center;
   align-items: center;
   gap: 48px;
+  margin: 0;
   margin-bottom: 24px;
   padding: 24px 48px 8px;
   border-radius: 4px;
